@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:alertDialogStyle">@style/CustomAlertDialogStyle</item>
+        <item name="android:textColor">@color/tv_color</item>
+        <item name="android:actionMenuTextColor">@color/colorPrimaryDark</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColorPrimary">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:background">@color/white</item>
+    </style>
+</resources>

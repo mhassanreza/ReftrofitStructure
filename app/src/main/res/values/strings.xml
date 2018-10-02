@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit2</string>
+    <string name="ok">OK</string>
+    <string name="fetching">fetching...</string>
+</resources>
